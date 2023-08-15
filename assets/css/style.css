@@ -1,0 +1,67 @@
+#container {
+  width: 960px;
+  text-align: center;
+  margin: 0 auto;
+  position: relative;
+}
+
+header {
+  background-color: #ffffff;
+  border: 1px #cccccc solid;
+}
+
+section {
+  width: 960px;
+  margin: 0 auto;
+}
+
+#name {
+  background-color: #4aaaa5;
+  width: 180px;
+  color: #ffffff;
+  margin: 0px;
+  padding: 20px;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+ul {
+  position: absolute;
+  top: 20px;
+  right: 0;
+}
+
+li {
+  float: left;
+  padding: 5px;
+  margin: 5px;
+  list-style-type: none;
+}
+
+#aboutMe {
+  margin-top: 50px;
+  color: #4aaaa5;
+  background-color: #ffffff;
+  padding: 20px;
+  overflow: auto;
+  clear: both;
+}
+
+body {
+  background-image: url(https://www.toptal.com/designers/subtlepatterns/uploads/moroccan-flower-dark.png);
+  font-family: Arial, Helvetica, sans-serif;
+  margin: -10px;
+}
+
+#profilePic {
+    width: 200px;
+    float: left;
+    padding: 20px;
+}
+
+#first {
+    overflow: auto;
+}
+
